@@ -1,0 +1,6 @@
+aasdacasadasd
+<<<<<<<
+
+=======
+
+>>>>>>>aaaaa
