@@ -1,6 +1,6 @@
+
 aasdacasadasd
-<<<<<<<
 
-=======
+# References
 
->>>>>>>aaaaa
+* octocat 1 😈
